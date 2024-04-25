@@ -1,5 +1,10 @@
 
-# Todolist full stack app
+# Todolist full-stack app
+
+### Todolist front-end only: [here](https://github.com/amanryder/todolist-fe)
+### Todolist back-end only: [here](https://github.com/amanryder/todolist-be)
+
+
 
 ## How To run
 
